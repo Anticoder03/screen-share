@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm run build:css",
+  "outputDirectory": "public",
+  "functions": {
+    "api/ws.js": {
+      "runtime": "edge"
+    }
+  }
+}
+
